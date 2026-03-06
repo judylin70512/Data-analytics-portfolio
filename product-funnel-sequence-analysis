@@ -1,0 +1,22 @@
+# Product Funnel Sequence Analysis
+
+This project analyzes user behavior through a product funnel using event-level data.
+
+The analysis compares two funnel calculation approaches:
+
+1. **Simple Funnel**
+2. **Sequence of Events Funnel**
+
+The goal is to understand how enforcing the correct user journey sequence affects conversion measurement.
+
+---
+
+# Dataset
+
+Each row represents a user event with the following fields:
+
+- **uid** – unique user identifier  
+- **event_name** – funnel stage  
+- **event_time** – timestamp of when the event occurred  
+
+Funnel stages:
