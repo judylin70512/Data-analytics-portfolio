@@ -1,18 +1,27 @@
-# TripleTen Data Projects
+# Data Analytics Portfolio
 
-Projects completed as part of the TripleTen Business Intelligence / Data Analysis bootcamp.
+This repository showcases data analytics projects focused on solving business problems through data analysis, visualization, and experimentation.
 
-## 📊 Project List
+## Projects
 
-| # | Project Name | Description |
-|---|-------------|-------------|
-| 1 | [Customer Retention Cohort Analysis](https://drive.google.com/drive/folders/1aEGyZUROqVUm55hNA9H6GlTLAu3F6taW?usp=drive_link) | Analyzed user behavior and retention trends using cohort analysis to identify churn patterns and improvement opportunities. |
-| 2 | Marketing Funnel Performance Analysis | Evaluated funnel conversion metrics to uncover drop-off points and optimization insights. |
-| 3 | A/B Test Analysis | Analyzed A/B test results to assess the impact of product and marketing changes on conversion rates. |
+### 1. Customer Retention Cohort Analysis (Power BI)
+Analyzed customer retention trends using cohort analysis to identify churn patterns and opportunities to improve engagement.
 
-## 🛠 Tools & Skills
-- SQL  
-- Tableau  
-- Excel  
-- Data analysis & visualization  
-- Business problem solving
+### 2. Marketing Funnel Performance Analysis
+Evaluated user conversion across funnel stages to identify drop-off points and areas for optimization.
+
+### 3. A/B Test Analysis
+Assessed experiment results to determine whether product or marketing changes improved conversion performance.
+
+### 4. Superstore Returns Analysis (Tableau)
+Analyzed the root causes of returned orders and developed an interactive dashboard to help monitor return patterns and support decision-making.
+
+## Tools & Skills
+
+- SQL
+- Power BI
+- Tableau
+- Excel
+- Data Analysis
+- Data Visualization
+- Business Problem Solving
