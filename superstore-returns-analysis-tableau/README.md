@@ -22,7 +22,7 @@ The Tableau dashboard allows users to explore return patterns interactively.
 
 ## Dashboard Preview
 
-![Superstore Returns Dashboard](dashboard.npg)
+![Superstore Returns Dashboard](dashboard.png)
 
 
 
