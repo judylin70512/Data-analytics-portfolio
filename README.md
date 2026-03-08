@@ -1,18 +1,29 @@
 # Data Analytics Portfolio
 
-This repository showcases data analytics projects focused on solving business problems through data analysis, visualization, and user behavior insights.
+This repository showcases data analytics projects focused on solving business problems through **data analysis, visualization, and user behavior insights**.
 
-The projects demonstrate experience in **data exploration, funnel analysis, retention analysis, and dashboard development** using tools such as SQL, Excel, Power BI, and Tableau.
+The projects demonstrate experience in:
+
+* Product analytics
+* Funnel analysis
+* Retention analysis
+* Data visualization and dashboards
+
+Tools used include **SQL, Excel, Power BI, and Tableau**.
 
 ---
 
 # Projects
 
-## 1. [Customer Retention Cohort Analysis (Power BI)](powerbi-customer-retention-analysis)
+## 📊 Customer Retention Cohort Analysis (Power BI)
 
-Analyzed customer retention trends using cohort analysis to identify churn patterns and opportunities to improve long-term user engagement.
+[View Project →](powerbi-customer-retention-analysis)
 
-Key focus:
+![Power BI Dashboard](powerbi-customer-retention-analysis/dashboard.png)
+
+Analyzed customer retention trends using **cohort analysis** to identify churn patterns and opportunities to improve long-term engagement.
+
+**Key Focus**
 
 * Cohort retention analysis
 * Customer lifecycle insights
@@ -20,12 +31,16 @@ Key focus:
 
 ---
 
-## 2. [Product Funnel Sequence Analysis](product-funnel-sequence-analysis)
+## 📈 Product Funnel Sequence Analysis
 
-Evaluated user conversion across funnel stages using event-level data.
-Compared **Simple Funnel** calculations with **Sequence Funnel** logic to measure true user progression through the product journey.
+[View Project →](product-funnel-sequence-analysis)
 
-Key focus:
+![Funnel Analysis](product-funnel-sequence-analysis/dashboard.png)
+
+Analyzed user behavior across a purchase funnel using **event-level data**.
+Compared **Simple Funnel calculations** with **Sequence Funnel logic** to measure true user progression through the product journey.
+
+**Key Focus**
 
 * Product funnel analysis
 * Event sequence validation
@@ -34,14 +49,18 @@ Key focus:
 
 ---
 
-## 3. [Superstore Returns Analysis (Tableau)](superstore-returns-analysis-tableau)
+## 📉 Superstore Returns Analysis (Tableau)
 
-Analyzed the root causes of returned orders and developed an interactive Tableau dashboard to identify return patterns across products, regions, and time.
+[View Project →](superstore-returns-analysis-tableau)
 
-Key focus:
+![Tableau Dashboard](superstore-returns-analysis-tableau/dashboard.png)
+
+Explored the root causes of product returns and built an **interactive Tableau dashboard** to identify patterns across product categories, regions, and time.
+
+**Key Focus**
 
 * Return rate analysis
-* Geographic and category insights
+* Geographic insights
 * Interactive data storytelling dashboard
 
 ---
